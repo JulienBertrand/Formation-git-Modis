@@ -18,18 +18,21 @@ Nous allons ainsi pouvoir :
   + toute personne qui voudrait regarder ce fichier Readme
   
 ### Utilisation de la plateforme collaborative GitHUB
-[Site de GitHub](https://github.com/) afin de découvrir toutes ses possibilités.
 
-![Git](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
+[Site de GitHub] (https://github.com/) afin de découvrir toutes ses possibilités.
+!(https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
+<!-- Je me permets d'afficher ton image avec cette syntaxe -->
 
+
+![Cat](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
 
 
 
 
 
 On est en train de créer un conflit sur ce fichier readme
-=======
+
 ceci est un depository test pour une formation 
 
 Il s'agit d'un dossier personnel
->>>>>>> c196ed29a47a24e4264b06e99a898403fe8b890c
+
