@@ -18,9 +18,9 @@ Nous allons ainsi pouvoir :
   + toute personne qui voudrait regarder ce fichier Readme
   
 ### Utilisation de la plateforme collaborative GitHUB
-[Site de GitHub] (https://github.com/) afin de découvrir toutes ses possibilités.
+[Site de GitHub](https://github.com/) afin de découvrir toutes ses possibilités.
 
-![Git] (https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
+![Git](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
 
 
 
