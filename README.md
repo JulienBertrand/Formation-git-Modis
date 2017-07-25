@@ -26,8 +26,10 @@ Nous allons ainsi pouvoir :
 La plateforme GitHub permet de créer un *dépository*, ou dépôt, permettant d'y uploader son travail local.
 L'avantage de GitHub est la possibilité de synchroniser son travail local avec le projet distant en 
 utilisant soit des lignes de commande via un terminal (ex *Git Bash*) ou un IDE (ex *GitKraken* ou *SourceTree*)
+
 [Site de GitKraken](https://www.gitkraken.com/)
 ![Kraken](https://www.gitkraken.com/img/misc/keif-backpack.svg)
+
 [Site de SourceTree](https://www.sourcetreeapp.com/)
 ![SourceTree](https://www.clearvision-cm.com/wp-content/uploads/2015/03/sourcetree_rgb_blue_atlassian.png)
 
