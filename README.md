@@ -19,7 +19,8 @@ Nous allons ainsi pouvoir :
   
 ### Utilisation de la plateforme collaborative GitHUB
 [Site de GitHub] (https://github.com/) afin de découvrir toutes ses possibilités.
-!(https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
+
+![Git] (https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
 
 
 
