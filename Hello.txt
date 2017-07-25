@@ -1,10 +1,5 @@
 Hello you
 What is up
 I'm okay
-<<<<<<< HEAD
 Me too, thank you !
 And you ?
-=======
-
-Badamtsss
->>>>>>> homepage
