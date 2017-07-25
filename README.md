@@ -6,11 +6,12 @@
 *dépôt de test pour la formation, nothing to see here!*
 
 ### But de ce projet 
+----------------------
 Le but de cet exercice est de modifier le fichier Readme en utilisant le langage __Markdown__.
 Cela nous permet de voir une alternative plus intuitive à l'écriture en HTML.
 
 Nous allons ainsi pouvoir :
---------------------------
+
 * documenter le projet sur lequel nous travaillons
 * le faire de façon lisible pour toute personne interessée par ce projet
   + les autres stagiaires
